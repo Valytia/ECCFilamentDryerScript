@@ -1,4 +1,4 @@
-# Elegoo Centauri Carbon Filament Dryer Script
+# Elegoo™ Centauri Carbon Filament Dryer Script
 This script was created to dry the filament using the built-in hot bed inside of Centauri Carbon printer.
 
 ### Installing
