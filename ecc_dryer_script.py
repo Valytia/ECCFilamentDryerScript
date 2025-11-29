@@ -45,7 +45,7 @@ def main():
     # Set up graceful exit that closes browser session properly
     signal.signal(signal.SIGINT, signal_handler)
 
-    print(f"\tProgram for setting Elegoo Centauri Carbon's Bed Temp has started.")
+    print(f"\tProgram for setting Elegoo™ Centauri Carbon's Bed Temp has started.")
     print(f"\tIP: {IP}, Temperature: {TEMP}°C, Interval: {INTERVAL}s")
     print(f"\tExit by using Ctrl+C")
 
