@@ -18,6 +18,7 @@ Inside of ecc_dryer_script.py, you can edit three parameters at the beginning of
 To run:
 1. Open up the folder with the script in the terminal
 2. Run with `python ecc_dryer_script.py`
+3. Done! Enjoy :)
 
 ### License
 This script is licensed under GPLv3 License.
